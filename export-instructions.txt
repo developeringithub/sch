@@ -1,0 +1,1 @@
+已授权提交到 developeringithub/sch main。目标 PNG: schematic-highres.png；目标 DPI: 300。请在本地用 Altium 打开 P1.schdoc 并按 README 中步骤导出 PNG，然后将生成的 schematic-highres.png 提交到同一仓库/分支以完成导出流程。
